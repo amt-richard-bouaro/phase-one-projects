@@ -5,4 +5,4 @@ Now i can push to Amalitech github repo.
 
 Again.
 
-git user
+SSH changed
