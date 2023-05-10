@@ -1,0 +1,65 @@
+ 
+ #main {
+      background-color: #f1f1f1;
+      padding: 30px 20px;
+      margin-bottom: 40px;
+  }
+
+  h1 {
+      /* color:blue;*/
+      text-align: center
+  }
+
+  h2 {
+      /* color:blue;*/
+      text-align: center;
+      font-size: 18px;
+      font-weight: 100;
+  }
+
+  #img-div {
+      background-color: #fff;
+      padding: 20px;
+      text-align: center;
+  }
+
+  #image {
+      width: initial;
+      height: initial;
+      max-width: 100%;
+
+  }
+
+  #img-caption {
+      text-align: center;
+  }
+
+  #tribute-info {
+      text-align: center;
+      margin: 50px 0;
+  }
+
+  #time-line {
+      max-width: 700px;
+      margin: 0 auto;
+  }
+
+  #time-line ul {
+      margin-bottom: 50px;
+
+  }
+
+  #time-line ul li {
+      margin-bottom: 15px;
+  }
+
+  #footer {
+      margin-top: 50px;
+  }
+
+  #footer p {
+      text-align: center;
+      font-size: larger;
+      font-weight: bolder;
+  }
+

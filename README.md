@@ -1,9 +1,10 @@
-# phase-one-projects
+# Phase-One-Projects
 This repository is for phase one projects.
 
-Now i can push to Amalitech github repo.
+## Lagacy Reponsive Web Design
 
-Again.
-
-SSH changed again 
-hmmm...
+### 1. Tribute Page                 - COMPLETED
+### 2. Survey Page                  - WORK IN PROGRESS
+### 3. Product Landing Page         - NOT STARTED
+### 4. Technical Documentation Page - NOT STARTED
+### 5. Personal Portfolio webpage   - NOT STARTED
