@@ -6,5 +6,5 @@ This repository is for phase one projects.
 ### 1. Tribute Page                 - COMPLETED
 ### 2. Survey Page                  - COMPLETED
 ### 3. Product Landing Page         - COMPLETED
-### 4. Technical Documentation Page - NOT STARTED
-### 5. Personal Portfolio webpage   - NOT STARTED
+### 4. Technical Documentation Page - COMPLETED
+### 5. Personal Portfolio webpage   - IN PROGRESS
