@@ -7,4 +7,4 @@ This repository is for phase one projects.
 ### 2. Survey Page                  - COMPLETED
 ### 3. Product Landing Page         - COMPLETED
 ### 4. Technical Documentation Page - COMPLETED
-### 5. Personal Portfolio webpage   - IN PROGRESS
+### 5. Personal Portfolio webpage   - COMPLETED
